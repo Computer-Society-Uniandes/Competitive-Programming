@@ -40,6 +40,9 @@
 ![schedule-1](https://github.com/user-attachments/assets/288d9279-7a25-40cc-bc8d-e328fa289fdb)
 
 ## Contenido
+📂 content  
+└── 📂 [01_introduction](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction)  
+
 
 ## Créditos
 Este proyecto es desarrollado y mantenido por:
