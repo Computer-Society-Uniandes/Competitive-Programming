@@ -33,7 +33,7 @@
 <p align="center">
     <img src="https://github.com/user-attachments/assets/2025f963-4202-452d-a9ef-5c3567ec028a" alt="Objective" width="200">
     <br>
-    "Este grupo tiene como finalidad fortalecer y profundizar los conocimientos en <strong>Programación Competitiva</strong>, desarrollando habilidades en <strong>lógica algorítmica, estructuras de datos y resolución de problemas</strong> mediante la práctica constante y el estudio de estrategias avanzadas. Además, busca fomentar un entorno colaborativo donde los participantes puedan intercambiar conocimientos, resolver desafíos en equipo y prepararse para competencias nacionales e internacionales. Asimismo, se promueve la aplicación de estos conocimientos en proyectos innovadores y de impacto, impulsando el pensamiento crítico y la creatividad en el desarrollo de soluciones eficientes."
+    "Este grupo tiene como objetivo fortalecer los conocimientos en <strong>Programación Competitiva</strong>, mejorando la lógica algorítmica y la resolución de problemas, además de fomentar la participación en competencias y proyectos afines.""
 </p>
 
 ## Programa

@@ -1,13 +1,16 @@
-def twoSum(array, target):
-    memo = {}
-    for i in range(len(array)):
-        number = array[i]
-        complement = target - number
-        if complement in memo:
-            return memo[complement], i
-        memo[number] = i
-    return -1
+def minAdditionalWalks(n, k, array):
+    b = array[:]
+    additionalWalks = 0
+    
+    for i in range(1, n):
+        if b[i] + b[i - 1] < k:
+            needed = k - (b[i] + b[i - 1])
+            b[i] += needed
+            additionalWalks += needed
+    
+    print(additionalWalks)
+    print(" ".join(map(str, b)))
 
-array = [7, 2, 12, 15, 9, 5]
-target = 11
-print(twoSum(array, target))
+n, k = map(int, input().split())
+array = list(map(int, input().split()))
+minAdditionalWalks(n, k, array)

@@ -1,9 +1,9 @@
 def icpcBallons(sequence):
-    memo = [0] * 26
+    memo = [0]*26
     points = 0
     for problem in sequence:
         i = ord(problem) - ord('A')
-        if memo[i]:
+        if memo[i] == 1:
             points += 1
         else:
             memo[i] = 1
@@ -12,6 +12,6 @@ def icpcBallons(sequence):
 
 t = int(input())
 for _ in range(t):
-    input()
+    n = int(input())
     sequence = input()
     print(icpcBallons(sequence))
