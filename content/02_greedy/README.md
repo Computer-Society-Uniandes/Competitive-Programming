@@ -35,6 +35,9 @@ En esta carpeta pueden encontrar el contenido relacionado a la sesión 02 Greedy
 ![02_5](https://github.com/user-attachments/assets/12373d98-e9dc-4801-bbc5-575ebfe7d6ac)
 
 ## Contenido
+### Presentación
+📂 ../  
+└── 📄 [02_greedy.pdf](https://github.com/Computer-Society-Uniandes/Competitive-Programming/blob/main/content/02_greedy/02_greedy.pdf)
 
 ## Créditos
 Este proyecto es desarrollado y mantenido por:
