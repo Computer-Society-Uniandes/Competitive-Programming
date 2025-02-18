@@ -42,7 +42,7 @@
 ## Contenido
 📂 content  
 └── 📂 [01_introduction](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction)  
-
+└── 📂 [02_greedy](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/02_greedy)  
 
 ## Créditos
 Este proyecto es desarrollado y mantenido por:

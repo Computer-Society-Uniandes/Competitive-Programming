@@ -39,6 +39,13 @@ En esta carpeta pueden encontrar el contenido relacionado a la sesión 02 Greedy
 📂 ../  
 └── 📄 [02_greedy.pdf](https://github.com/Computer-Society-Uniandes/Competitive-Programming/blob/main/content/02_greedy/02_greedy.pdf)
 
+### Soluciones
+> [!NOTE]  
+> La solución de los problemas estará disponible justo un momento antes de iniciar la siguiente lección.
+
+📂 exercises  
+└── 📂
+
 ## Créditos
 Este proyecto es desarrollado y mantenido por:
 - Wilmer Arévalo ([wareval0](http://electron.atom.io/))
