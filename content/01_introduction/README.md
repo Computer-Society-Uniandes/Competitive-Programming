@@ -31,6 +31,20 @@ En esta carpeta pueden encontrar el contenido relacionado a la sesión 01 Introd
 #### Perfect Standings
 ![4-1](https://github.com/user-attachments/assets/83510a95-6cd7-4ff6-adfa-4ff241943417)
 
+## Contenido
+### Presentación
+📂 ../  
+└── 📄 [01_introduction.pdf](https://github.com/Computer-Society-Uniandes/Competitive-Programming/blob/main/content/01_introduction/01_introduction.pdf)
+
+### Soluciones
+📂 exercises  
+└── 📂 [two_sum](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction/exercises/two_sum)  
+└── 📂[icpc_ballons](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction/exercises/icpc_ballons)  
+└── 📂 [acm_icpc](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction/exercises/acm_icpc)  
+└── 📂 [polygon](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction/exercises/polygon)  
+└── 📂 [stalin_sort](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction/exercises/stalin_sort)  
+└── 📂 [perfect_standing](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction/exercises/perfect_standing)  
+
 ## Créditos
 Este proyecto es desarrollado y mantenido por:
 - Wilmer Arévalo ([wareval0](http://electron.atom.io/))
