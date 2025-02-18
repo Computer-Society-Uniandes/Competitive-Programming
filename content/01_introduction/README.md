@@ -18,18 +18,18 @@
 ## 01 Introducción
 En esta carpeta pueden encontrar el contenido relacionado a la sesión 01 Introducción.
 
-### Problemas Introductorios
+### Problemas
 #### ACM ICPC
-![1-1](https://github.com/user-attachments/assets/2b4da29f-6562-4a5d-b5c5-7471840b17d9)
+![01_1](https://github.com/user-attachments/assets/2b4da29f-6562-4a5d-b5c5-7471840b17d9)
 
 #### Polygon
-![2-1](https://github.com/user-attachments/assets/06444a13-a474-4dea-819f-bcb2d147fea0)
+![01_2](https://github.com/user-attachments/assets/06444a13-a474-4dea-819f-bcb2d147fea0)
 
 #### Staling Sort
-![3-1](https://github.com/user-attachments/assets/1d02a33c-7591-4623-bc68-2bb1cbadcc0a)
+![01_3](https://github.com/user-attachments/assets/1d02a33c-7591-4623-bc68-2bb1cbadcc0a)
 
 #### Perfect Standings
-![4-1](https://github.com/user-attachments/assets/83510a95-6cd7-4ff6-adfa-4ff241943417)
+![01_4](https://github.com/user-attachments/assets/83510a95-6cd7-4ff6-adfa-4ff241943417)
 
 ## Contenido
 ### Presentación
@@ -39,7 +39,7 @@ En esta carpeta pueden encontrar el contenido relacionado a la sesión 01 Introd
 ### Soluciones
 📂 exercises  
 └── 📂 [two_sum](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction/exercises/two_sum)  
-└── 📂[icpc_ballons](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction/exercises/icpc_ballons)  
+└── 📂 [icpc_ballons](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction/exercises/icpc_ballons)  
 └── 📂 [acm_icpc](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction/exercises/acm_icpc)  
 └── 📂 [polygon](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction/exercises/polygon)  
 └── 📂 [stalin_sort](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction/exercises/stalin_sort)  
