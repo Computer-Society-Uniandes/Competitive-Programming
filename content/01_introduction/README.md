@@ -34,21 +34,21 @@ En esta carpeta pueden encontrar el contenido relacionado a la sesión 01 Introd
 ## Contenido
 ### Presentación
 📂 ../  
-└── 📄 [01_introduction.pdf](https://github.com/Computer-Society-Uniandes/Competitive-Programming/blob/main/content/01_introduction/01_introduction.pdf)
+└── 📄 [01_introduction.pdf](https://github.com/Computer-Society-Uniandes/Competitive-Programming/blob/main/content/01_introduction/01_introduction.pdf)  
 
 ### Soluciones
 📂 exercises  
-└── 📂 [two_sum](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction/exercises/two_sum)  
 └── 📂 [icpc_ballons](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction/exercises/icpc_ballons)  
 └── 📂 [acm_icpc](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction/exercises/acm_icpc)  
 └── 📂 [polygon](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction/exercises/polygon)  
 └── 📂 [stalin_sort](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction/exercises/stalin_sort)  
 └── 📂 [perfect_standing](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction/exercises/perfect_standing)  
+└── 📄 [01_solution.pdf](https://github.com/Computer-Society-Uniandes/Competitive-Programming/blob/main/content/02_greedy/exercises/02_solution.pdf)  
 
 ## Créditos
 Este proyecto es desarrollado y mantenido por:
-- Wilmer Arévalo ([wareval0](http://electron.atom.io/))
-- Daniel Diaz ([ddi4z](https://nodejs.org/))
+- Wilmer Arévalo ([wareval0](https://github.com/wareval0))
+- Daniel Diaz ([ddi4z](https://github.com/ddi4z))
 
 ## Licencia
 MIT

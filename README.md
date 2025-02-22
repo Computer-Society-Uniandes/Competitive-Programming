@@ -43,11 +43,12 @@
 📂 content  
 └── 📂 [01_introduction](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction)  
 └── 📂 [02_greedy](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/02_greedy)  
+└── 📂 [03_greedy](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/03_greedy)  
 
 ## Créditos
 Este proyecto es desarrollado y mantenido por:
-- Wilmer Arévalo ([wareval0](http://electron.atom.io/))
-- Daniel Diaz ([ddi4z](https://nodejs.org/))
+- Wilmer Arévalo ([wareval0](https://github.com/wareval0))
+- Daniel Diaz ([ddi4z](https://github.com/ddi4z))
 
 ## Licencia
 MIT

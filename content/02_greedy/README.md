@@ -26,7 +26,7 @@ En esta carpeta pueden encontrar el contenido relacionado a la sesión 02 Greedy
 ![02_2](https://github.com/user-attachments/assets/02353ca0-c880-4e6b-b701-4c0c37724247)
 
 ### Hard Problem
-![02_3](https://github.com/user-attachments/assets/5da7bd75-63f3-417f-81c2-6d40aeef625d)
+![02_3](https://github.com/user-attachments/assets/0a76754a-29d1-4636-8391-5db47841b2cc)
 
 ### Phone Desktop
 ![02_4](https://github.com/user-attachments/assets/0dd7ec2a-dfbd-4bd6-bf36-e4c8d404841f)
@@ -40,16 +40,18 @@ En esta carpeta pueden encontrar el contenido relacionado a la sesión 02 Greedy
 └── 📄 [02_greedy.pdf](https://github.com/Computer-Society-Uniandes/Competitive-Programming/blob/main/content/02_greedy/02_greedy.pdf)
 
 ### Soluciones
-> [!NOTE]  
-> La solución de los problemas estará disponible justo un momento antes de iniciar la siguiente lección.
-
 📂 exercises  
-└── 📂
+└── 📂 [minimum_varied_number](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/02_greedy/exercises/minimum_varied_number)  
+└── 📂 [santa_claus_and_candies](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/02_greedy/exercises/santa_claus_and_candies)  
+└── 📂 [hard_problem](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/02_greedy/exercises/hard_problem)  
+└── 📂 [phone_desktop](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/02_greedy/exercises/phone_desktop)  
+└── 📂 [maximize_mex](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/02_greedy/exercises/maximize_mex)  
+└── 📄 [02_solution.pdf](https://github.com/Computer-Society-Uniandes/Competitive-Programming/blob/main/content/02_greedy/exercises/02_solution.pdf) 
 
 ## Créditos
 Este proyecto es desarrollado y mantenido por:
-- Wilmer Arévalo ([wareval0](http://electron.atom.io/))
-- Daniel Diaz ([ddi4z](https://nodejs.org/))
+- Wilmer Arévalo ([wareval0](https://github.com/wareval0))
+- Daniel Diaz ([ddi4z](https://github.com/ddi4z))
 
 ## Licencia
 MIT
