@@ -15,15 +15,15 @@
 
 ![screenshot](https://github.com/user-attachments/assets/5eac8ecc-5d36-4eb9-8576-3a3a1b64c91b)
 
-## 02 Greedy
-En esta carpeta pueden encontrar el contenido relacionado a la sesión 02 Greedy.
+## 03 Greedy
+En esta carpeta pueden encontrar el contenido relacionado a la sesión 03 Greedy.
 
 ### Problemas
 #### Good String
-![03-1](https://github.com/user-attachments/assets/40e231ad-b870-4a02-91c1-e513cbe00a22)
+![03-1](https://github.com/user-attachments/assets/2098a684-4231-4ba1-ae91-202f649d4ee4)
 
 ### Boxes Packing
-![03-2](https://github.com/user-attachments/assets/37b8b966-a745-4033-8b03-c1181c94770b)
+![03-2](https://github.com/user-attachments/assets/924c75ad-86be-4f23-a31c-bc02eb7c05bf)
 
 ### And
 ![03-3](https://github.com/user-attachments/assets/a6c7301a-c6d4-4820-9deb-fe9be2e3b6da)
@@ -33,11 +33,8 @@ En esta carpeta pueden encontrar el contenido relacionado a la sesión 02 Greedy
 
 ## Contenido
 ### Presentación
-> [!NOTE]  
-> La presentación estará disponible justo un momento después de terminar la segunda sesión presencial de la lección.
-
 📂 ../  
-└── 📄 
+└── 📄 [03_greedy.pdf](https://github.com/Computer-Society-Uniandes/Competitive-Programming/blob/main/content/03_greedy/03_greedy.pdf)
 
 ### Soluciones
 > [!NOTE]  
