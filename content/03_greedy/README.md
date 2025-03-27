@@ -20,16 +20,16 @@ En esta carpeta pueden encontrar el contenido relacionado a la sesión 03 Greedy
 
 ### Problemas
 #### Good String
-![03-1](https://github.com/user-attachments/assets/2098a684-4231-4ba1-ae91-202f649d4ee4)
+![03_greedy-1](https://github.com/user-attachments/assets/a52cd813-a217-429f-b5c9-4eaa8e8b6e8c)
 
 ### Boxes Packing
-![03-2](https://github.com/user-attachments/assets/924c75ad-86be-4f23-a31c-bc02eb7c05bf)
+![03_greedy-2](https://github.com/user-attachments/assets/d9be3091-6ee6-49a1-ab10-a36925fca15d)
 
 ### And
-![03-3](https://github.com/user-attachments/assets/a6c7301a-c6d4-4820-9deb-fe9be2e3b6da)
+![03_greedy-3](https://github.com/user-attachments/assets/a3beba4b-fc3e-46f4-8288-04b116ead5ea)
 
 ### Mex Game 1
-![03-4](https://github.com/user-attachments/assets/fb87a55c-99c3-4f7c-b911-64fd9de08bf9)
+![03_greedy-4](https://github.com/user-attachments/assets/90e55fb3-833d-4609-bf37-5d0238eac1c8)
 
 ## Contenido
 ### Presentación
