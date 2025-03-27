@@ -20,19 +20,19 @@ En esta carpeta pueden encontrar el contenido relacionado a la sesión 02 Greedy
 
 ### Problemas
 #### Minimum Varied Number
-![02_1](https://github.com/user-attachments/assets/1b3f9a87-a3b9-464f-8959-ca23bb41ee8b)
+![02_greedy-1](https://github.com/user-attachments/assets/b1002043-9288-4fda-8e5e-10fad084bd79)
 
 ### Santa Claus and Candies
-![02_2](https://github.com/user-attachments/assets/02353ca0-c880-4e6b-b701-4c0c37724247)
+![02_greedy-2](https://github.com/user-attachments/assets/a846ad2c-083c-4077-b45f-aa42b41a599d)
 
 ### Hard Problem
-![02_3](https://github.com/user-attachments/assets/0a76754a-29d1-4636-8391-5db47841b2cc)
+![02_greedy-3](https://github.com/user-attachments/assets/da2162a6-b21f-4017-ac15-b0850d8c5dd5)
 
 ### Phone Desktop
-![02_4](https://github.com/user-attachments/assets/0dd7ec2a-dfbd-4bd6-bf36-e4c8d404841f)
+![02_greedy-4](https://github.com/user-attachments/assets/200e48ef-5888-4efd-855d-166c7ce5b8b2)
 
 ### Maximize Mex
-![02_5](https://github.com/user-attachments/assets/12373d98-e9dc-4801-bbc5-575ebfe7d6ac)
+![02_greedy-5](https://github.com/user-attachments/assets/4c93b0e3-9225-4936-bb99-a0fcfc79d910)
 
 ## Contenido
 ### Presentación
