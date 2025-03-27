@@ -20,16 +20,16 @@ En esta carpeta pueden encontrar el contenido relacionado a la sesión 01 Introd
 
 ### Problemas
 #### ACM ICPC
-![01_1](https://github.com/user-attachments/assets/2b4da29f-6562-4a5d-b5c5-7471840b17d9)
+![01_introduction-1](https://github.com/user-attachments/assets/8166a35e-9241-4cd8-84a1-891e121c60da)
 
 #### Polygon
-![01_2](https://github.com/user-attachments/assets/06444a13-a474-4dea-819f-bcb2d147fea0)
+![01_introduction-2](https://github.com/user-attachments/assets/b9f3b4e6-f4d1-489e-84c8-3950d31ea178)
 
 #### Staling Sort
-![01_3](https://github.com/user-attachments/assets/1d02a33c-7591-4623-bc68-2bb1cbadcc0a)
+![01_introduction-3](https://github.com/user-attachments/assets/ddc9f280-0407-4a93-b22f-d36a9b385a5e)
 
 #### Perfect Standings
-![01_4](https://github.com/user-attachments/assets/83510a95-6cd7-4ff6-adfa-4ff241943417)
+![01_introduction-4](https://github.com/user-attachments/assets/cfd1fc18-e066-40cf-b572-1730d9b48cd3)
 
 ## Contenido
 ### Presentación
@@ -43,7 +43,7 @@ En esta carpeta pueden encontrar el contenido relacionado a la sesión 01 Introd
 └── 📂 [polygon](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction/exercises/polygon)  
 └── 📂 [stalin_sort](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction/exercises/stalin_sort)  
 └── 📂 [perfect_standing](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction/exercises/perfect_standing)  
-└── 📄 [01_solution.pdf](https://github.com/Computer-Society-Uniandes/Competitive-Programming/blob/main/content/02_greedy/exercises/02_solution.pdf)  
+└── 📄 [01_solution.pdf](https://github.com/Computer-Society-Uniandes/Competitive-Programming/blob/main/content/01_introduction/exercises/01_solution.pdf)  
 
 ## Créditos
 Este proyecto es desarrollado y mantenido por:
