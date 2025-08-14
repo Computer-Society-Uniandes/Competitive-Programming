@@ -22,7 +22,7 @@
   Programación Competitiva
 </h1>
 
-![screenshot](https://github.com/user-attachments/assets/5eac8ecc-5d36-4eb9-8576-3a3a1b64c91b)
+![main_page](https://github.com/user-attachments/assets/bf89b8ee-6100-49ee-bde9-9613d2dd98ee)
 
 ## Quiénes somos
 - **Computer Society** es un grupo estudiantil de la Universidad de Los Andes y parte de la rama IEEE. 
@@ -37,13 +37,23 @@
 </p>
 
 ## Programa
-![schedule-1](https://github.com/user-attachments/assets/288d9279-7a25-40cc-bc8d-e328fa289fdb)
+![schedule-1](https://github.com/user-attachments/assets/fff73300-1193-4374-9aa1-2575eeae1a03)
 
 ## Contenido
 📂 content  
 └── 📂 [01_introduction](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction)  
-└── 📂 [02_greedy](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/02_greedy)  
-└── 📂 [03_greedy](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/03_greedy)  
+└── 📂 02_greedy  
+└── 📂 03_greedy  
+└── 📂 04_number_theory  
+└── 📂 05_number_theory  
+└── 📂 06_recursion  
+└── 📂 07_recursion  
+└── 📂 08_graphs  
+└── 📂 09_graphs  
+└── 📂 10_dynamic_programming  
+└── 📂 11_dynamic_programming  
+└── 📂 12_backtracking  
+└── 📂 13_backtracking  
 
 ## Créditos
 Este proyecto es desarrollado y mantenido por:
