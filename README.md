@@ -33,7 +33,7 @@
 <p align="center">
     <img src="https://github.com/user-attachments/assets/2025f963-4202-452d-a9ef-5c3567ec028a" alt="Objective" width="200">
     <br>
-    "Este grupo tiene como objetivo fortalecer los conocimientos en <strong>Programación Competitiva</strong>, mejorando la lógica algorítmica y la resolución de problemas, además de fomentar la participación en competencias y proyectos afines.""
+    "Este grupo tiene como objetivo fortalecer los conocimientos en <strong>Programación Competitiva</strong>, mejorando la lógica algorítmica y la resolución de problemas, además de fomentar la participación en competencias y proyectos afines."
 </p>
 
 ## Programa

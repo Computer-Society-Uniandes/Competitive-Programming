@@ -38,12 +38,12 @@ En esta carpeta pueden encontrar el contenido relacionado a la sesión 01 Introd
 
 ### Soluciones
 📂 exercises  
-└── 📂 icpc_ballons  
-└── 📂 acm_icpc  
-└── 📂 polygon  
-└── 📂 stalin_sort  
-└── 📂 perfect_standing  
-└── 📄 01_solution.pdf  
+└── 📂 [icpc_ballons](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction/exercises/icpc_ballons)  
+└── 📂 [acm_icpc](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction/exercises/acm_icpc)  
+└── 📂 [polygon](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction/exercises/polygon)  
+└── 📂 [stalin_sort](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction/exercises/stalin_sort)  
+└── 📂 [perfect_standing](https://github.com/Computer-Society-Uniandes/Competitive-Programming/tree/main/content/01_introduction/exercises/perfect_standing)  
+└── 📄 [01_solution.pdf](https://github.com/Computer-Society-Uniandes/Competitive-Programming/blob/main/content/01_introduction/exercises/01_solution.pdf)  
 
 ## Créditos
 Este proyecto es desarrollado y mantenido por:
