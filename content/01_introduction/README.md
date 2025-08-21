@@ -13,7 +13,7 @@
   Programación Competitiva
 </h1>
 
-![screenshot](https://github.com/user-attachments/assets/5eac8ecc-5d36-4eb9-8576-3a3a1b64c91b)
+![main_page](https://github.com/user-attachments/assets/bf89b8ee-6100-49ee-bde9-9613d2dd98ee)
 
 ## 01 Introducción
 En esta carpeta pueden encontrar el contenido relacionado a la sesión 01 Introducción.
